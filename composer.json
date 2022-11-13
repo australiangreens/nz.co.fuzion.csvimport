@@ -1,0 +1,5 @@
+{
+    "name": "australian_greens/nz.co.fuzion.csvimport",
+    "type": "drupal-module",
+    "description": "CSV Importer for CiviCRM"
+}
